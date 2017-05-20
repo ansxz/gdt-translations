@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-08-31 19:44+0000\n"
-"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
+"Last-Translator: anas alnasser <ansxz-ansxzk@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -117,8 +117,7 @@ msgstr "وظف شخصاً مشهوراً."
 
 #. achievement title
 msgid "Full House"
-msgstr "البيت الكبير"
-
+msgstr "البيت الممتلئ"
 #. achievement
 msgid "Have the maximum number of employees."
 msgstr "وظف الحد الأقصى من الموظفين."
